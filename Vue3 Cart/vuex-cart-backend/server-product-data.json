@@ -2,50 +2,110 @@
     {
       "id": 1,
       "title": "Slatis",
-      "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+      "description": "Slätis är en mugg att smeka. Det enda som skulle kunna vara lenare än slätis är en bebisrumpa. I denna mugg kan du dricka ditt morgonte och drömma dig bort till en slät strand där du håller någons väldigt heta och slääääta hand.",
       "product_type": "power set/diesel engine",
       "image_tag": "./assets/KeramikBilder/kopparSläta.jpg",
       "created_at": 2020,
       "owner": "Colton",
       "owner_photo": "image-colton.jpg",
       "email": "colt@gmail.com",
-      "price": 719.9
+      "price": 130
     },
     {
       "id": 2,
-      "title": "MIKANO Engine",
-      "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis! ",
+      "title": "Ribbis",
+      "description": "Ribbis är en riktigt härlig mugg. När denna mugg skapades tänkte jag på människokroppen och hur vacker den är i alla dess former. Därför har jag nu gjort en mugg som har fler valkar än vad du har, så kanske du får en liten boost. ",
       "product_type": "power set/diesel engine",
       "image_tag": "diesel-engine.png",
       "created_at": 2020,
       "owner": "Colton",
       "owner_photo": "image-colton.jpg",
       "email": "colt@gmail.com",
-      "price": 650.9
+      "price": 130
     },
     {
       "id": 3,
-      "title": "SEFANG Engine",
-      "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
+      "title": "Oljeflaska",
+      "description": "Olja kan man göra allt möjligt med. Du kan göra såser, laga mat, få ett bättre glid, massera eller varför inte sätta i håret. I denna flaska kan du se ut som ett riktigt proffs när det kommer till olja, folk ser att du vet vad du håller på med. Därför måste du köpa den. Ta minns två, dom är ömtåliga.",
       "product_type": "power set/diesel engine",
       "image_tag": "sefang-engine.png",
       "created_at": 2017,
       "owner": "Anne",
       "owner_photo": "image-anne.jpg",
       "email": "anne@gmail.com",
-      "price": 619.9
+      "price": 475
     },
     {
       "id": 4,
-      "title": "CAT Engine",
-      "description": "Lorem ipsum dolor sit amet, consectetur  dignissimos suscipit voluptatibus distinctio, error nostrum expedita omnis ipsum sit inventore aliquam sunt quam quis!",
-      "product_type": "power set/diesel engine",
+      "title": "Mortlar",
+      "description": "Skippa kvarnen och mortla dina kryddor i någon av dessa snygga mortlar. Här är leran tagen från de grekiska stränderna, därav den vackra blåa färgen. Varje grek har den i sitt hem, därför ska du också ha det.",
+      "product_type": "glide",
       "image_tag": "lawn-mower.png",
       "created_at": 2017,
-      "owner": "Irene",
+      "owner": "Zeuz",
       "owner_photo": "image-irene.jpg",
-      "email": "irene@gmail.com",
-      "price": 319.9
+      "email": "zeuz@gmail.com",
+      "price": 529
+    },
+    {
+      "id": 5,
+      "title": "Lugn",
+      "description": "Lugn, bara lugn. Ta en kopp te och njut av dagen. Här kan vi garantera en fridfulldag då vi har blandat ut valium och antidepressiva i leran. Stress är en vardag för många och därför vill vi göra samhället en tjänst. En kopp te och du kan känne lugnet i både kropp och själ. OBS! Barn under 8 år bör inte dricka ur denna kopp.",
+      "product_type": "valium",
+      "image_tag": "lawn-mower.png",
+      "created_at": 2017,
+      "owner": "Bosse",
+      "owner_photo": "image-irene.jpg",
+      "email": "bosse@gmail.com",
+      "price": 529
+    },
+    {
+      "id": 6,
+      "title": "LillÖra",
+      "description": "Söker du spänning i vardagen? Här har vi en otroligt vacker kopp, men kan du hålla den med två fingrar utan att spilla ut innehållet? Vi får väl se! Köp fler så att du kan använda den tillsammans med dina kompisar och se vem som har svagast nypor.",
+      "product_type": "power set/diesel engine",
+      "image_tag": "./assets/KeramikBilder/kopparSläta.jpg",
+      "created_at": 2020,
+      "owner": "Colton",
+      "owner_photo": "image-colton.jpg",
+      "email": "colt@gmail.com",
+      "price": 150
+    },
+    {
+      "id": 7,
+      "title": "Krukor",
+      "description": "Jag gör krukor som passar din personlighet och ditt hem. Allt jag behöver veta är ditt stjärntecken, när du senast duschat och fyra hårstrån från valfri kroppsdel. Du behöver inte längre åka till Thailand och hitta dig själv. Krukan kommer hitta dig från och med nu, då den drar till sig positiva energier och förstärker din aura. Meningen med livet och svaren på alla din frågor finns i denna kruka...",
+      "product_type": "meningen med livet",
+      "image_tag": "./assets/KeramikBilder/kopparSläta.jpg",
+      "created_at": 2020,
+      "owner": "Solstråle",
+      "owner_photo": "image-colton.jpg",
+      "email": "solstrale@gmail.com",
+      "price": 650
+    },
+    {
+      "id": 8,
+      "title": "Kannor",
+      "description": "I dessa kannor kan du hälla allt. Vodka, vilket betyder rent vatten på ryska. Eller varför inte lite bordsvin? När du är ute och dumpstrar kanske du hittar någon rutten vattenmelon du kan göra lite saft av? Häll den saften i denna kannan så ser du i alla fall inte den träsk-gröna färgen.",
+      "product_type": "power set/diesel engine",
+      "image_tag": "./assets/KeramikBilder/kopparSläta.jpg",
+      "created_at": 2020,
+      "owner": "Colton",
+      "owner_photo": "image-colton.jpg",
+      "email": "colt@gmail.com",
+      "price": 590
+    },
+    {
+      "id": 9,
+      "title": "Kaffe",
+      "description": "Kaffe! Livets dryck, det som får en att kliva upp på morgonen och ge ett nytt försök till att slå ner patriarkatet. En robust mugg som avspeglar styrkan hos kvinnor. Vi kvinnor klarar allt. Vi ska aldrig mer vara rädda för män, vi ska aldrig mer tjäna mindre än dom, vi ska aldrig mer raka våra armhålor!!! Så dra fram kökssaxen och klipp den fulaste frisyr du kan komma på och ta en stor klunk kaffe från denna fantastiska Kaffemugg.",
+      "product_type": "power set/diesel engine",
+      "image_tag": "./assets/KeramikBilder/kopparSläta.jpg",
+      "created_at": 2020,
+      "owner": "Colton",
+      "owner_photo": "image-colton.jpg",
+      "email": "colt@gmail.com",
+      "price": 150
     }
 
   ]
